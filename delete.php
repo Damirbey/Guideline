@@ -1,0 +1,1 @@
+<a href="blogs.php?delete=<?php echo $dis['content'];?>"><input type="submit" value="Delete" class="btn btn-primary"></a>

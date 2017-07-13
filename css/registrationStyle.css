@@ -1,0 +1,23 @@
+﻿body{
+    background-image: url('../Pictures/simple.jpg') ; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.center-box{
+    width:600px;
+    height:400px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-top:30px;
+    padding-right:300px;
+}
+.panel{
+    width:400px;
+    height:300px;
+}

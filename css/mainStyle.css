@@ -1,0 +1,60 @@
+﻿.namings{
+    font-size:45px;
+    color:#2C2D3A;
+    text-align:center;
+    letter-spacing:2px;
+}
+.page-header > h1 {
+  padding-top: 5px;
+}
+.thumbnail{
+    width:400;
+    height:auto;
+}
+
+.thumbnail:hover {
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+	box-shadow: 0 0 8px #333333;
+	border-color: #333333;
+}
+.inf-img{
+    max-height:217px;
+}
+.navbar-inverse .navbar-brand {
+    color: #E4E3E3;
+}
+.billboard-img{
+   height: 500px;
+}
+
+.disabled
+{
+  pointer-events: none;
+
+  /* for "disabled" effect */
+  opacity: 0.8;
+ 
+}
+#addition{
+	width:500px;
+	margin:0 auto;
+	border:1px #cccccc dotted;
+	border-radius:5px;
+	padding:30px;
+	box-shadow:3px 3px 3px #888888;
+	margin-bottom:10px;
+}
+#addition input{
+	padding:10px;
+	border-radius:5px;
+}
+#addition h3{
+	text-align:center;
+	padding-bottom:10px;
+}
+#form{
+	margin:0 auto;
+	width:250px;
+	
+}
